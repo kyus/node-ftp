@@ -1,4 +1,4 @@
-{ "name": "@hubweb/ftp",
+{ "name": "@kyus/ftp",
   "version": "1.0.0",
   "author": "kyus <hkjw1211@gmail.com>",
   "description": "An FTP client module for node.js",
